@@ -3,4 +3,4 @@ require_relative "../lib/greeting.rb"
 
 puts "Hi! I'm HAL, what'syour name?"
 name = gets
-puts 
+puts "Hello #{name}. It's nice to meet you."
